@@ -9,6 +9,12 @@
       "title": "my first stream ",
       "description": "youhoo",
       "id": 2
+    },
+    {
+      "title": "I created this stream ",
+      "description": "tada now ",
+      "userId": "116016266136166680092",
+      "id": 3
     }
   ]
 }
