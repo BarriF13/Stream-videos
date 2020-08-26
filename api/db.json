@@ -1,11 +1,16 @@
 {
   "streams": [
-
     {
       "title": "New ",
       "description": "new stream",
       "userId": "116016266136166680092",
       "id": 8
+    },
+    {
+      "title": "zaghart title",
+      "description": "I am making a react app with redux",
+      "userId": "116016266136166680092",
+      "id": 9
     }
   ]
 }
